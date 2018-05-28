@@ -1,0 +1,8 @@
+#--Project file or folders--#
+target
+catalog
+#--user specific conf files--#
+.setting
+.classpath
+.project
+mule-project.xml
